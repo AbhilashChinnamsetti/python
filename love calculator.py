@@ -11,6 +11,7 @@ u=final.count("u")
 e=final.count("e")
 love=l+o+v+e
 true=t+r+u+e
+
 love_percentage=int(love)+int(true)
 if  love_percentage<10 or love_percentage>90:
     print("top rated")
